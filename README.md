@@ -1,7 +1,7 @@
 # 📝 Personal Blog Website
 This is a simple and elegant Blog Website built using HTML, Tailwind CSS, and JavaScript. It features a responsive design, clean UI, and interactive elements to provide a great reading experience.
 
-🌐 Live Demo: Visit Blog
+🌐 Live Demo: https://preeminent-frangipane-1a6f9b.netlify.app
 
 🚀 Features
 📱 Responsive Design – Looks great on all screen sizes
